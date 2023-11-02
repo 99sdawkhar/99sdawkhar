@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **99sdawkhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TsCY9DEm3z49mzK_Myu1Yk0nU5YlGk8k/view?usp=sharing](https://drive.google.com/file/d/1TsCY9DEm3z49mzK_Myu1Yk0nU5YlGk8k/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HhHTGSKl1f6p3hZ_RSlfIaXdgZeRtNGd/view?usp=sharing)[target="_blank"]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham Dawkhar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working with **Axioned**
+- 🔭 I’m currently working with **Softpixel Solutions**
 
-- 🌱 I’m currently learning **NextJs app router, Svelte, Nodejs**
+- 🌱 I’m currently exploring **Node Js & NextJs app router**
 
-- 💬 Ask me about **Javascript, ReactJs, Redux, NextJs, GatsbyJs, EleventyJs, Php, Mysql**
+- 💬 Ask me about **Javascript, ReactJs, Redux, NextJs, GatsbyJs, NodeJs, Php, Mysql, MongoDB**
 
 - 📫 How to reach me **99sdawkhar@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HhHTGSKl1f6p3hZ_RSlfIaXdgZeRtNGd/view?usp=sharing" title="Opens in a new tab" target="blank">here</a>.
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZRPpODTl6Bk-QyMFQd-vqDbK00lnU153/view?usp=sharing" title="Opens in a new tab" target="blank">here</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

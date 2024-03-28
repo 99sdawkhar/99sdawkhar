@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Softpixel Solutions**
 
-- 🌱 I’m currently exploring **Node Js & NextJs app router**
+- 🌱 I’m currently exploring **JavaScript Algorithms and Data Structures Masterclass on Udemy**
 
 - 💬 Ask me about **Javascript, ReactJs, Redux, NextJs, GatsbyJs, NodeJs, Php, Mysql, MongoDB**
 
